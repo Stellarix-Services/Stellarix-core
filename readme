@@ -1,0 +1,73 @@
+🌌 Stellarix Core
+
+Stellarix Core is the central planning and documentation repository for the Stellarix Discord bot.
+It contains all core ideas, feature plans, system design notes, and future roadmap for the project.
+
+🚀 About Stellarix
+
+Stellarix is an advanced, modular Discord bot designed to provide:
+
+⚙️ Powerful utility tools
+🎮 Fun and interactive features
+🛡️ Moderation systems
+📊 Server insights and automation
+🧩 Expandable plugin-style architecture
+
+This repository acts as the brain behind Stellarix, not the bot code itself.
+
+📁 What’s in this Repository?
+
+This repo includes:
+
+📌 Feature planning documents
+🧠 System architecture ideas
+🗺️ Roadmaps and milestones
+📝 Design decisions and notes
+💡 Experimental concepts
+🧭 Project Goals
+Build a scalable and modular Discord bot
+Keep features well-documented before development
+Maintain a clear long-term vision
+Make collaboration easier with structured planning
+🛠️ Planned Features
+
+Some planned systems include:
+
+🤖 Advanced command system
+🧠 AI-powered responses (optional modules)
+🎵 Music system
+🛡️ Moderation tools (auto-mod, logs, filters)
+📈 Leveling / XP system
+🎉 Events and mini-games
+🔌 Plugin/module system
+🗺️ Roadmap
+Phase 1 – Foundation
+Core architecture planning
+Command structure design
+Basic moderation system
+Phase 2 – Core Features
+Utility commands
+Leveling system
+Logging & analytics
+Phase 3 – Expansion
+Music system
+Games & fun commands
+Plugin system
+Phase 4 – Advanced Systems
+AI integrations
+Dashboard (web panel)
+Custom server configurations
+🤝 Contributing
+
+This repository is mainly for planning, but contributions are welcome!
+
+You can help by:
+
+Suggesting features
+Improving documentation
+Refining system designs
+Opening discussions/issues
+📌 Notes
+This is not the main bot code repository
+Everything here may change as ideas evolve
+The goal is clarity before implementation
