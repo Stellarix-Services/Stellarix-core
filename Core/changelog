@@ -1,0 +1,9 @@
+## Stellarix Version 1.0.0 
+
+Fixeds:
+- fix some bugs with response time
+- fix modlog command not storing a raw id 
+
+New:
+- Added Welcomer System via command and dashboard
+- Added AutoMod System via commands and dashboard and also included discord builit in AutoMod Features
